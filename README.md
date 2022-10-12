@@ -1,4 +1,4 @@
-![GitHub Snake Light](https://ytzkahagpsrnsfliekzi.supabase.co/storage/v1/object/public/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- ![GitHub Snake Light](https://ytzkahagpsrnsfliekzi.supabase.co/storage/v1/object/public/assets/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 ![GitHub Snake Dark](https://ytzkahagpsrnsfliekzi.supabase.co/storage/v1/object/public/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
